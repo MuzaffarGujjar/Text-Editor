@@ -1,3 +1,3 @@
-Text Editor
+# Text Editor
 Text editor design in HTML CSS and JAVASCRIPT
-Musr try
+Must Try
